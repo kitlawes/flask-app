@@ -1,3 +1,3 @@
-# github-data
+# flask-app
 
-A Google App Engine application based on the tutorial at cloud.google.com/appengine/docs/standard/python/getting-started
+A Google App Engine application based on the tutorial at https://cloud.google.com/appengine/docs/standard/python/getting-started
